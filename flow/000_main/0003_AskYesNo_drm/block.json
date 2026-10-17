@@ -1,0 +1,10 @@
+{
+    "Type":  "AskYesNo",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "drm",
+                   "prompt":  "Does your game still have other non-steamworks DRM?",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

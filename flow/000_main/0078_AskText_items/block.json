@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "items",
+                   "prompt":  "What are all items you would like in your inventory in JSON?",
+                   "default":  "",
+                   "multi":  "true",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

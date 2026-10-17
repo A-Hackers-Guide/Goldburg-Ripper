@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "CBIPS",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

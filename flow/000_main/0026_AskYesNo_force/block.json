@@ -1,0 +1,10 @@
+{
+    "Type":  "AskYesNo",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "force",
+                   "prompt":  "Do you want to force other global settings?",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

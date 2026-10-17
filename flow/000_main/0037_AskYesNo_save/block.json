@@ -1,0 +1,10 @@
+{
+    "Type":  "AskYesNo",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "save",
+                   "prompt":  "Would you like to save game data in game dir?",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

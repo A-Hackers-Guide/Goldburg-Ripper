@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}",
+                   "name":  "listen_port.txt",
+                   "content":  "{port}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

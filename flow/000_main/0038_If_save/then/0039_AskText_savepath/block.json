@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "savepath",
+                   "prompt":  "What is your Custom Save Dir?",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

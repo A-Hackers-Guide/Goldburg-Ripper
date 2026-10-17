@@ -1,0 +1,10 @@
+{
+    "Type":  "AskYesNo",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "disablenet",
+                   "prompt":  "Do you want to Disable Game Networking? This will REMOVE all online functions!!!",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

@@ -1,0 +1,1 @@
+Does your game check if you are subscribed?

@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}",
+                   "name":  "user_steam_id.txt",
+                   "content":  "{id}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

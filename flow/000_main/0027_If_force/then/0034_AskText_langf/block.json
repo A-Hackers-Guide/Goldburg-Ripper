@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "langf",
+                   "prompt":  "What is your FORCE Custom Language?",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

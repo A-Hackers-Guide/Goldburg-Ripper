@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings",
+                   "name":  "force_steam_id.txt",
+                   "content":  "{idf}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

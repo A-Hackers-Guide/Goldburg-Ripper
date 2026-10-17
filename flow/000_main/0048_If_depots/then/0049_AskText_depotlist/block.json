@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "depotlist",
+                   "prompt":  "List all installed game depots:",
+                   "default":  "",
+                   "multi":  "true",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}",
+                   "name":  "steam_appid.txt",
+                   "content":  "{app}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

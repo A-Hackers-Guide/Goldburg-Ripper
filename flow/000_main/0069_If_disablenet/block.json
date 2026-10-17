@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "disablenet",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

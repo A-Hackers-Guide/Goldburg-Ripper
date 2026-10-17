@@ -1,0 +1,1 @@
+Does your game expect a Default Value to be read to it the First Time it reads a stat?

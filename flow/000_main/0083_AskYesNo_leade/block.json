@@ -1,0 +1,10 @@
+{
+    "Type":  "AskYesNo",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "leade",
+                   "prompt":  "Does your game\u0027s leaderboard break with standard formatting?",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

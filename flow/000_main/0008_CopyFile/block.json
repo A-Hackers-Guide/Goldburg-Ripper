@@ -1,0 +1,11 @@
+{
+    "Type":  "CopyFile",
+    "Disabled":  false,
+    "Values":  {
+                   "source":  "{copyfolder}\\steam_api.dll",
+                   "dest":  "{game}",
+                   "newName":  "",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "false"
+               }
+}

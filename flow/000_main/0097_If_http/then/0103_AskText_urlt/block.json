@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "urlt",
+                   "prompt":  "What third (optional) slash url would you like? (ex. exabple.com/admin/en would be just en)",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

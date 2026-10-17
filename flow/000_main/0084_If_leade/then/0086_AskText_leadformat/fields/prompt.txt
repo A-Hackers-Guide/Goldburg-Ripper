@@ -1,0 +1,1 @@
+What is the proper formatting for it in LEADERBOARD_NAME=sort method=display type format? For the sort methods: 0 = none, 1 = ascending, 2 = descending, For the display type: 0 = none, 1 = numeric, 2 = time seconds, 3 = milliseconds

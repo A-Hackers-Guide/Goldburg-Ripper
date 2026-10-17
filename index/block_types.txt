@@ -1,0 +1,11 @@
+AskFolder            1
+AskText              24
+AskYesNo             14
+CopyFile             2
+CopyToCopyFolder     1
+CreateFolder         6
+EndIf                14
+If                   14
+Message              6
+StopFlow             1
+WriteText            25

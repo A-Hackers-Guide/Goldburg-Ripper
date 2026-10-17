@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings",
+                   "name":  "subscribed_groups.txt",
+                   "content":  "{subscription}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "false"
+               }
+}

@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings\\",
+                   "name":  "custom_broadcasts.txt",
+                   "content":  "{CBIPSlist}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "false"
+               }
+}

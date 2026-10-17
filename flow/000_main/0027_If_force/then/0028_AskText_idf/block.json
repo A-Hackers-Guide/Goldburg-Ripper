@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "idf",
+                   "prompt":  "What is your FORCE Steam ID?",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

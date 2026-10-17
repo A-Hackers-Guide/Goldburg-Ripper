@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "id",
+                   "prompt":  "What is your Steam ID?",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

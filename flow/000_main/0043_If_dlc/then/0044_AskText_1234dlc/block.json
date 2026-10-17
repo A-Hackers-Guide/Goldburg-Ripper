@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "1234dlc",
+                   "prompt":  "List all of your DLCs in 1234=NAME format 1 per line.",
+                   "default":  "",
+                   "multi":  "true",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

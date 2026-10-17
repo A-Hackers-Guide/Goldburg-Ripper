@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "build",
+                   "prompt":  "What is the game\u0027s Build ID? Steam -\u003e Library -\u003e GAME -\u003e Settings -\u003e Properties -\u003e Updates -\u003e Build ID",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "true",
+                   "allowSkip":  "true",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

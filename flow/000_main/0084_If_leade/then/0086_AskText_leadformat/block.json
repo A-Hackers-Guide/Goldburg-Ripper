@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "leadformat",
+                   "prompt":  "What is the proper formatting for it in LEADERBOARD_NAME=sort method=display type format? For the sort methods: 0 = none, 1 = ascending, 2 = descending, For the display type: 0 = none, 1 = numeric, 2 = time seconds, 3 = milliseconds",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

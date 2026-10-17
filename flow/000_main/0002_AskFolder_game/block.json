@@ -1,0 +1,10 @@
+{
+    "Type":  "AskFolder",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "game",
+                   "prompt":  "Pick the game you would like to RIP:",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

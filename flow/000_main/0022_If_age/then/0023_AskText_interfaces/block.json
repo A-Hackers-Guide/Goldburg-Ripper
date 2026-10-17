@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "interfaces",
+                   "prompt":  "What is your game\u0027s interfaces (Look it up, very important)?",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

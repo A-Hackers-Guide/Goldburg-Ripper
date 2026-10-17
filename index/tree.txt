@@ -1,0 +1,108 @@
+0001  CopyToCopyFolder
+0002  AskFolder
+0003  AskYesNo
+0004  If
+    0005  StopFlow
+0006  EndIf
+0007  CopyFile
+0008  CopyFile
+0009  CreateFolder
+0010  AskText
+0011  WriteText
+0012  WriteText
+0013  AskText
+0014  WriteText
+0015  AskText
+0016  WriteText
+0017  AskText
+0018  WriteText
+0019  AskText
+0020  WriteText
+0021  AskYesNo
+0022  If
+    0023  AskText
+    0024  WriteText
+0025  EndIf
+0026  AskYesNo
+0027  If
+    0028  AskText
+    0029  WriteText
+    0030  AskText
+    0031  WriteText
+    0032  AskText
+    0033  WriteText
+    0034  AskText
+    0035  WriteText
+0036  EndIf
+0037  AskYesNo
+0038  If
+    0039  AskText
+    0040  WriteText
+0041  EndIf
+0042  AskYesNo
+0043  If
+    0044  AskText
+    0045  WriteText
+0046  EndIf
+0047  AskYesNo
+0048  If
+    0049  AskText
+    0050  WriteText
+0051  EndIf
+0052  AskYesNo
+0053  If
+    0054  AskText
+    0055  WriteText
+0056  EndIf
+0057  AskYesNo
+0058  If
+    0059  AskText
+    0060  WriteText
+0061  EndIf
+0062  CreateFolder
+0063  Message
+0064  AskYesNo
+0065  If
+    0066  WriteText
+0067  EndIf
+0068  AskYesNo
+0069  If
+    0070  WriteText
+0071  EndIf
+0072  AskYesNo
+0073  If
+    0074  AskText
+    0075  WriteText
+0076  EndIf
+0077  Message
+0078  AskText
+0079  WriteText
+0080  AskText
+0081  WriteText
+0082  Message
+0083  AskYesNo
+0084  If
+    0085  Message
+    0086  AskText
+    0087  WriteText
+0088  EndIf
+0089  AskYesNo
+0090  If
+    0091  AskText
+    0092  WriteText
+    0093  Message
+0094  EndIf
+0095  Message
+0096  AskYesNo
+0097  If
+    0098  CreateFolder
+    0099  AskText
+    0100  CreateFolder
+    0101  AskText
+    0102  CreateFolder
+    0103  AskText
+    0104  CreateFolder
+0105  EndIf
+0106  AskText
+0107  WriteText
+0108  WriteText

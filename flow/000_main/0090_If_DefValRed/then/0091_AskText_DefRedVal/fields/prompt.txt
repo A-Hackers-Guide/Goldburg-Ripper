@@ -1,0 +1,1 @@
+List Default Value in STAT_NAME=type=default value format. The type can be: int, float or avgrate, the default value is simply a number that represents the default value for the stat.

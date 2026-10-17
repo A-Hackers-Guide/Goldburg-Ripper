@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "urlb",
+                   "prompt":  "What Top URL would you like to add in exabple.com or en.example.com format, or more. Make sure not to list https or http, or any url /link links (ex. example.com/example)",
+                   "default":  "",
+                   "multi":  "false",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

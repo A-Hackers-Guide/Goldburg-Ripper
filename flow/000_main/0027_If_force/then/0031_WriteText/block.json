@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings",
+                   "name":  "force_account_name.txt",
+                   "content":  "{namef}",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

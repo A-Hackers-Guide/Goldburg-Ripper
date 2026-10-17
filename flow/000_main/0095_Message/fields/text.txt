@@ -1,0 +1,1 @@
+We only support one SteamHTTP link, and up to 3 sections (ex. Https://example.com/admin/en), rerun the program to add more, and we only support folder generation.

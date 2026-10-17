@@ -1,0 +1,1 @@
+Put your mods in GAMEFOLDER\steam_settings\mods or not if you don't want to, but you must do your own research on that.

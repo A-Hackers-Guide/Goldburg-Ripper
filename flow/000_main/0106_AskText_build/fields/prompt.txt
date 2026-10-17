@@ -1,0 +1,1 @@
+What is the game's Build ID? Steam -> Library -> GAME -> Settings -> Properties -> Updates -> Build ID

@@ -1,0 +1,8 @@
+{
+    "Type":  "Message",
+    "Disabled":  false,
+    "Values":  {
+                   "text":  "Be careful with items and achievements, for they could crash your game!",
+                   "skipIfSkipped":  "false"
+               }
+}

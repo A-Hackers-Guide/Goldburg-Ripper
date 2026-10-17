@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings",
+                   "name":  "disable_networking.txt",
+                   "content":  "Rename this to: disable_networking.txt to disable all networking functionality. Rename this to: enable_networking.txt to disable all networking functionality.",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "false"
+               }
+}

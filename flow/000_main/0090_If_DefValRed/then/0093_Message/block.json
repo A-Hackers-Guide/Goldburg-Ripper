@@ -1,0 +1,8 @@
+{
+    "Type":  "Message",
+    "Disabled":  false,
+    "Values":  {
+                   "text":  "You can use the scripts\\stats_schema_achievement_gen\\achievements_gen.py script in the emu source code repo to generate a achievements and stats (later) config from a steam: appcache\\stats\\UserGameStatsSchema_{app}.bin file.",
+                   "skipIfSkipped":  "false"
+               }
+}

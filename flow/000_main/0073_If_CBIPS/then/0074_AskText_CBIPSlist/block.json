@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "CBIPSlist",
+                   "prompt":  "List all Custom IPS or Domains one per line:",
+                   "default":  "",
+                   "multi":  "true",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

@@ -1,0 +1,8 @@
+{
+    "Type":  "Message",
+    "Disabled":  false,
+    "Values":  {
+                   "text":  "By default the emulator assumes all leaderboards queried by the game (FindLeaderboard()) exist and creates them with the most common options (sort method descending, display type numeric) In some games this default behavior doesn\u0027t work and so you may need to tweak which leaderboards the game sees. An empty leaderboards.txt makes the emu behave as if any leaderboard queried by the game using FindLeaderboard does not exist.",
+                   "skipIfSkipped":  "false"
+               }
+}

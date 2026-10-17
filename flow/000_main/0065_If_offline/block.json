@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "offline",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

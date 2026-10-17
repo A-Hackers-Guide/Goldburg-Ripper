@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "paths",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

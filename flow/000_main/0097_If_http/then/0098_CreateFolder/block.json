@@ -1,0 +1,8 @@
+{
+    "Type":  "CreateFolder",
+    "Disabled":  false,
+    "Values":  {
+                   "path":  "{game}\\steam_settings\\http",
+                   "skipIfSkipped":  "false"
+               }
+}

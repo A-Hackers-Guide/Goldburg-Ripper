@@ -1,0 +1,11 @@
+{
+    "Type":  "WriteText",
+    "Disabled":  false,
+    "Values":  {
+                   "folder":  "{game}\\steam_settings",
+                   "name":  "offline.txt",
+                   "content":  "Rename this to: offline.txt to pretend steam is running in offline mode. Rename this to: online.txt to pretend steam is running in online mode.",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "false"
+               }
+}

@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "force",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

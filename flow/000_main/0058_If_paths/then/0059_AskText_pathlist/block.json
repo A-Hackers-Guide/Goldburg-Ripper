@@ -1,0 +1,13 @@
+{
+    "Type":  "AskText",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "pathlist",
+                   "prompt":  "List all app paths in 1234=./steam_api format 1 per line:",
+                   "default":  "",
+                   "multi":  "true",
+                   "emptySkip":  "false",
+                   "allowSkip":  "false",
+                   "onSkip":  "Just mark it as skipped"
+               }
+}

@@ -1,0 +1,11 @@
+{
+    "Type":  "CopyToCopyFolder",
+    "Disabled":  false,
+    "Values":  {
+                   "source":  "FileCopy.FC",
+                   "mode":  "Use the copy folder (ask me the first time)",
+                   "newName":  "",
+                   "ifExists":  "Replace it (always overwrite)",
+                   "skipIfSkipped":  "true"
+               }
+}

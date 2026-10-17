@@ -1,0 +1,9 @@
+{
+    "Type":  "If",
+    "Disabled":  false,
+    "Values":  {
+                   "var":  "http",
+                   "op":  "is Yes",
+                   "value":  ""
+               }
+}

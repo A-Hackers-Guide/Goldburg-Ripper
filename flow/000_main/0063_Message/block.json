@@ -1,0 +1,8 @@
+{
+    "Type":  "Message",
+    "Disabled":  false,
+    "Values":  {
+                   "text":  "Put your mods in GAMEFOLDER\\steam_settings\\mods or not if you don\u0027t want to, but you must do your own research on that.",
+                   "skipIfSkipped":  "false"
+               }
+}
