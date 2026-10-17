@@ -10,3 +10,5 @@ raw\         the complete project exactly as BlockFlow stores it (this is what B
 checksums.sha256   a SHA-256 fingerprint of every file.
 
 To open this project in BlockFlow again, open the original .exe (or rename raw\project.json to .bflow).
+
+Rip all your games with GOLDBURG RIPPER! you CAN download strait from goldburg, but this just asks you a few questions, and you can have all the ripped games you want!
